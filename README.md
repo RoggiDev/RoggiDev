@@ -21,7 +21,7 @@ I'm a Front End Engineer & Creative Developer focused on building modern, intera
 ### Back End
 
 ![Node.js](https://img.shields.io/badge/Node.js-111111?style=flat&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-111111?style=flat&logo=express&logoColor=white)
+![Express](https://img.shields.io/badge/Express-111111?style=flat&logo=express&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-111111?style=flat&logo=dotnet&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-111111?style=flat&logo=php&logoColor=white)
 
