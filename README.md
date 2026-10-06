@@ -1,6 +1,6 @@
-# Hi I'm Roggi Dev 👋
+# Hi, I'm Roggi Dev 👋
 
-I'm a Front End Engineer and Creative Developer focused on building modern, interactive, and high-performance web solutions.
+I'm a Front End Engineer & Creative Developer focused on building modern, interactive, and high-performance web solutions.
 
 ## 🛠️ Tech Stack
 
@@ -8,10 +8,10 @@ I'm a Front End Engineer and Creative Developer focused on building modern, inte
 
 ![HTML](https://img.shields.io/badge/HTML-111111?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-111111?style=flat&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat&logo=javascript&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-111111?style=flat&logo=bootstrap&logoColor=white)
 ![Lit](https://img.shields.io/badge/Lit-111111?style=flat&logo=lit&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-111111?style=flat&logo=gsap&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-111111?style=flat&logo=vite&logoColor=white)
 ![React](https://img.shields.io/badge/React-111111?style=flat&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-111111?style=flat&logo=tailwindcss&logoColor=white)
